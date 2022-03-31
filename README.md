@@ -5,7 +5,7 @@
 An e-commerce site for a fictional company called Shop-Shop. The app was built as part of a bootcamp module and uses the MERN stack, GraphQl, JWT, IndexedDb, and Stripe.
 
 ## Deployment
-[Click here to go to app hosted by heroku]()
+[Click here to go to app hosted by heroku](https://desolate-woodland-45274.herokuapp.com/)
 
 ## License
 [MIT License](https://choosealicense.com/licenses/mit/)
